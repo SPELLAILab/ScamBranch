@@ -4,7 +4,7 @@
 
 # It's Not What the Scammer Says, It's How You Reply: Small Scam Detectors Judge Code-Mixed Fraud Calls by the Victim
 
-[![AAAI-27 Student Abstract](https://img.shields.io/badge/AAAI--27-Student%20Abstract-2f3640)](https://rishia.in/pub/ahuja2027scambranch)
+![AAAI-27 Student Abstract](https://img.shields.io/badge/AAAI--27-Student%20Abstract-2f3640)
 [![Dataset on HF](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ScamBranch-yellow.svg)](https://huggingface.co/datasets/rishia2220/scambranch)
 [![Adapters on HF](https://img.shields.io/badge/%F0%9F%A4%97%20Models-LoRA%20adapters-yellow.svg)](https://huggingface.co/rishia2220/scambranch-lora)
 
@@ -14,7 +14,7 @@ Rishi Ahuja · Kumar Prateek · Simranjit Singh
 
 Department of Information Technology, Dr. B. R. Ambedkar National Institute of Technology Jalandhar
 
-[Project page](https://rishia.in/pub/ahuja2027scambranch) · [Dataset](https://huggingface.co/datasets/rishia2220/scambranch) · [LoRA adapters](https://huggingface.co/rishia2220/scambranch-lora)
+[Dataset](https://huggingface.co/datasets/rishia2220/scambranch) · [LoRA adapters](https://huggingface.co/rishia2220/scambranch-lora)
 
 ---
 
